@@ -1,6 +1,6 @@
 {
   "name": "@moltraffle/elizaos-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ElizaOS plugin for moltraffle — on-chain raffles on Base mainnet",
   "main": "src/index.ts",
   "types": "src/index.ts",
