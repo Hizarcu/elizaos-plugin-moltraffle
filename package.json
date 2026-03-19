@@ -1,6 +1,6 @@
 {
   "name": "@moltraffle/elizaos-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ElizaOS plugin for moltraffle — on-chain raffles on Base mainnet",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hizarcu/moltraffle-mainnet"
+    "url": "https://github.com/Hizarcu/elizaos-plugin-moltraffle"
   },
   "homepage": "https://moltraffle.fun"
 }
